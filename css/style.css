@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 1;
+    box-sizing: border-box;
+}
+
+main{
+    height: 100vh;
+    background-color: #072429;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider-container{
+    background-color: rgba(252, 236, 208, 0.945);
+    width: 50vw;
+    height: 50vh;
+    box-shadow: 0 20px 50px 30px rgb(115, 47, 204);
+}
