@@ -19,8 +19,9 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    transition: all 1s;
+    transition: all 2s;
     user-select: none;
+    padding-bottom: 10px;
    
 }
 
@@ -60,4 +61,5 @@
 
 .slider-item:first-child{
     margin-left: -50vw;
+    transition: 2s;
 }
