@@ -3,7 +3,7 @@
 
 const imagens = [
     {id: '1', url: './img/angular.png' },
-    {id: '2', url: './img/vue.jpg' },
+    {id: '2', url: 'https://i.pinimg.com/originals/5d/01/c7/5d01c74da34ec298f5d38544e6bd5e16.png'},
     {id: '3', url: './img/react.png' },
     {id: '6', url: 'https://1.bp.blogspot.com/--WXuB2bHWBA/XyLeC0fBUWI/AAAAAAAAHmo/HEIZfG6QmCAVx_aGdzDWfd3P22kNaD1ngCLcBGAsYHQ/d/DESKTOP-WALLPAPER-SAMURAI-RED.png'},
     {id: '6', url: 'https://p4.wallpaperbetter.com/wallpaper/65/636/1016/digital-art-2560x1440-samurai-wallpaper-preview.jpg'}
