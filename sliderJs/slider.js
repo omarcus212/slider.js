@@ -2,7 +2,7 @@
 
 
 const imagens = [
-    {id: '1', url: './img/angular.png' },
+    {id: '1', url: 'https://primeiraesetimaarte.com.br/wp-content/uploads/2020/07/558508.jpg' },
     {id: '2', url: 'https://i.pinimg.com/originals/5d/01/c7/5d01c74da34ec298f5d38544e6bd5e16.png'},
     {id: '3', url: './img/react.png' },
     {id: '6', url: 'https://1.bp.blogspot.com/--WXuB2bHWBA/XyLeC0fBUWI/AAAAAAAAHmo/HEIZfG6QmCAVx_aGdzDWfd3P22kNaD1ngCLcBGAsYHQ/d/DESKTOP-WALLPAPER-SAMURAI-RED.png'},
