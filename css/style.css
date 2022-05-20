@@ -5,8 +5,8 @@
 }
 
 main{
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     background-color: #072429;
     display: flex;
     justify-content: center;
@@ -23,8 +23,8 @@ main{
 @media(max-width:980px){
 
  main{
-   width:100%;
-    height: 100%;
+   width:100vw;
+    height: 100vh;
         background-color: #072429;
      
     }
